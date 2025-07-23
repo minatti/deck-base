@@ -1,6 +1,6 @@
 # 🃏 Projeto Anki - Deck Base Personalizado com CrowdAnki
 
-Este projeto tem como objetivo criar uma estrutura base de baralho (deck) personalizada para o Anki, utilizando o plugin **CrowdAnki**. Ele serve como ponto de partida para criação, organização e versionamento de decks de estudos via Git, especialmente útil para quem deseja automatizar ou padronizar a geração de cartões para concursos, ensino superior e treinamentos profissionais.
+Este projeto tem como objetivo criar uma estrutura base de baralho (deck) personalizada para o Anki, utilizando o plugin **CrowdAnki**. Ele serve como ponto de partida para criação, organização e versionamento de decks de estudos via Git, especialmente útil para quem deseja automatizar ou padronizar a geração de cartões para concursos, ensino superior e treinamentos profissionais
 
 ---
 
