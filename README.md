@@ -6,10 +6,7 @@ Este projeto tem como objetivo criar uma estrutura base de baralho (deck) person
 
 ## 📁 Estrutura do Projeto
 
-deck-base/
-├── deck.json # Arquivo principal do deck no padrão CrowdAnki
-└── README.md # Documentação do projeto
-
+...
 
 ---
 
@@ -34,3 +31,11 @@ deck-base/
    ```bash
    git clone https://github.com/seu-usuario/deck-base.git
    cd deck-base
+
+3. **Como iniciar projeto**
+
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
