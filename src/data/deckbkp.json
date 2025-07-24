@@ -156,25 +156,25 @@
         {
             "__type__": "Note",
             "fields": [
-                "Qual das alternativas abaixo representa um tipo de dado imutável em Python?\nA) list\nB) set\nC) tuple\nD) dict\nE) bytearray",
-                "Resposta correta: C\nA `tuple` é um tipo imutável em Python, ao contrário das listas e dicionários que são mutáveis."
+                "Testando",
+                "Resposta correta: A"
             ],
-            "guid": "sSR6Wud!<D",
+            "guid": "pB<x+emsg%",
             "note_model_uuid": "c22ea8b0-6815-11f0-b5a7-0ff2d2f8b4fb",
             "tags": [
-                "conhecimento-especifico-python"
+                "teste"
             ]
         },
         {
             "__type__": "Note",
             "fields": [
-                "Qual é o resultado da expressão 2 ** 3 em Python?\nA) 5\nB) 6\nC) 7\nD) 8\nE) 9",
-                "Resposta correta: D\nO operador `**` realiza exponenciação. 2 elevado a 3 é igual a 8."
+                "Teste2",
+                "R: B"
             ],
-            "guid": "qV_x4@qz#k",
+            "guid": "ORGJKG}izm",
             "note_model_uuid": "c22ea8b0-6815-11f0-b5a7-0ff2d2f8b4fb",
             "tags": [
-                "conhecimento-especifico-python"
+                "teste"
             ]
         }
     ],
